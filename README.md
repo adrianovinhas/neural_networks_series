@@ -4,6 +4,6 @@ This repository is part of the Neural Network Series' posts I am writing on Medi
 
 Table of Contents:
 
-- Perceptron
+- [Perceptron](https://github.com/adrianovinhas/neural_networks_series/blob/master/perceptron.ipynb)
 - Adaline
 - Multilayer Networks
