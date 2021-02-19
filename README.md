@@ -5,5 +5,5 @@ This repository is part of the Neural Network Series' posts I am writing on Medi
 Table of Contents:
 
 - [Perceptron](https://github.com/adrianovinhas/neural_networks_series/blob/master/perceptron.ipynb)
-- Adaline
+- [Gradient Descent](https://github.com/adrianovinhas/neural_networks_series/blob/master/gradient_descent.ipynb)
 - Multilayer Networks
